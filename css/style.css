@@ -1,0 +1,136 @@
+body {
+  margin:0;
+  text-align: center;
+  line-height: 2;
+  color:  #40514E;
+}
+
+h1 {
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size:2rem;
+	color: #66BFBF;
+}
+
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color: #11999E;
+}
+hr{
+	border-style:none;
+	color:#EAF6F6;
+	border-top:dotted;
+	border-width: 5px;
+	width: 7%;
+	margin: 50px auto;
+}
+.skill-row{
+	width: 50%;
+	margin: auto;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	text-align: left;
+}
+.pro{
+	height: 9em;
+	width: 9em;
+}
+.my-sub-head{
+	font-weight: normal;
+}
+
+.pro-span {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.footer-link{
+	color: #11999E;
+	margin: 10px 20px;
+	text-decoration: none;		
+}
+a:hover{
+	color: #EAF6F6;
+}
+
+.Web-Development{
+	width: 25%;
+	float:left;
+	margin-right: 30px;
+}
+.java{
+	width: 25%;
+	float: right;
+	margin-left:30px;
+}
+.my-des {
+    color: #40514E;
+    width: 30%;
+    margin: auto;
+}
+
+.bottom-container{
+	background-color:#66BFBF;
+}
+.middle-container{
+	margin:100px 0;
+}
+.myp{
+	margin: 0;
+	color: #EAf6f6;
+	font-size:0.75rem;
+	padding:20px 0px;
+}
+.contact-me{
+	margin-bottom: 30px;
+}
+.Contactbtn {
+   height: 10px;
+    line-height: 10px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    width: 130px;
+    font-size: 20px;
+    font-weight: 200;
+    padding: 10px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 7px;
+}
+.Contactbtn:hover{
+	background-image: none;
+	background-color: #3498db
+}
+.contact-message{
+	width: 35%;
+	margin: 40px auto 40px;
+}
+/*.web-description{
+	clear: left;
+}
+.java-description{
+	clear: right;
+}*/
